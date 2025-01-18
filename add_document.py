@@ -106,7 +106,7 @@ def get_loader(file_path):
 
 if __name__ == "__main__":
     try:
-        folder_path = "C:/Users/shiraeh/Documents/Affairs/4_MyTool/DATA/Ready2Go"
+        folder_path = "YOUR-DATA-PATH"
         file_paths = glob(os.path.join(folder_path, '*'), recursive=True)
 
         if not file_paths:
