@@ -7,7 +7,7 @@ TODO
 A RUNNNING
 ----------------------------------------------------
 ① conda activate Python39
-② cd C:\Users\shiraeh\Documents\Affairs\4_MyTool\v1.0.12(TextMining)
+② cd YOUR-ACTION-PATH
 ③ streamlit run internal_qa.py --server.port 8080
 〇 python add_document.py
 
